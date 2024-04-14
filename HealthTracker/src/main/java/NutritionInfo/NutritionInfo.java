@@ -71,4 +71,10 @@ public class NutritionInfo {
         System.out.println("Fat: " + fatForWeight + "g");
         System.out.println("Carbohydrates: " + carbohydratesForWeight + "g");
     }
+
+    @Override
+    public String toString() {
+        return "Food: " + name + ", Calories: " + calories + ", Protein: " + protein +
+                ", Fat: " + fat + ", Carbohydrates: " + carbohydrates;
+    }
 }

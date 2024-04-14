@@ -38,4 +38,3 @@ Service Class
 
 --> function to add foods in the list with macronutrients and calories for 100g;
 --> function to search food by name
---> function to sort food by name
