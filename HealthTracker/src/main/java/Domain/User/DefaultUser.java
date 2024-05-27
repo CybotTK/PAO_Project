@@ -1,4 +1,4 @@
-package User;
+package Domain.User;
 
 public class DefaultUser extends User {
     protected boolean hasAccessToAdvancedFeatures;

@@ -1,4 +1,4 @@
-package Goal;
+package Domain.Goal;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,6 +1,6 @@
 package Services;
 
-import NutritionInfo.NutritionInfo;
+import Domain.NutritionInfo.NutritionInfo;
 
 import java.util.ArrayList;
 import java.util.Comparator;

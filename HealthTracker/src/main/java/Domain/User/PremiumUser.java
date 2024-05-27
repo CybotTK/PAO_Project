@@ -1,4 +1,4 @@
-package User;
+package Domain.User;
 
 public class PremiumUser extends User{
     protected int loyaltyPoints;

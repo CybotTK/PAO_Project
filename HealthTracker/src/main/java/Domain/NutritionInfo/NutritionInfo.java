@@ -1,4 +1,4 @@
-package NutritionInfo;
+package Domain.NutritionInfo;
 
 public class NutritionInfo {
     protected String name;

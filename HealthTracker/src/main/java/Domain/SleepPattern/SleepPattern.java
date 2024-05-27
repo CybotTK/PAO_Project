@@ -1,4 +1,4 @@
-package SleepPattern;
+package Domain.SleepPattern;
 
 import java.time.LocalTime;
 

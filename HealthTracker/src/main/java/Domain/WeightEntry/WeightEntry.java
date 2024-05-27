@@ -1,4 +1,4 @@
-package WeightEntry;
+package Domain.WeightEntry;
 
 import java.time.LocalDate;
 

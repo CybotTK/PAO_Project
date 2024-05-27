@@ -1,7 +1,8 @@
-package CalorieIntake;
+package Domain.CalorieIntake;
 
 import java.time.LocalDateTime;
-import NutritionInfo.NutritionInfo;
+
+import Domain.NutritionInfo.NutritionInfo;
 
 public class CalorieIntake {
     protected LocalDateTime dateTime;

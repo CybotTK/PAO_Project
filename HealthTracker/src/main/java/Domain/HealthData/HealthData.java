@@ -1,9 +1,9 @@
-package HealthData;
+package Domain.HealthData;
 
-import CalorieIntake.CalorieIntake;
-import ExerciseLog.ExerciseLog;
-import SleepPattern.SleepPattern;
-import WeightEntry.WeightEntry;
+import Domain.CalorieIntake.CalorieIntake;
+import Domain.SleepPattern.SleepPattern;
+import Domain.WeightEntry.WeightEntry;
+import Domain.ExerciseLog.ExerciseLog;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package Reminder;
+package Domain.Reminder;
 
 import java.time.LocalTime;
 import java.util.HashMap;

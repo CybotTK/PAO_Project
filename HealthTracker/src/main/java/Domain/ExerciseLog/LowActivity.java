@@ -1,4 +1,4 @@
-package ExerciseLog;
+package Domain.ExerciseLog;
 
 import java.time.LocalDate;
 

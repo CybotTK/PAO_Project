@@ -1,4 +1,4 @@
-package User;
+package Domain.User;
 
 public abstract class User {
 

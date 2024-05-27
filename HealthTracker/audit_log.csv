@@ -1,0 +1,14 @@
+2024-05-27 23:47:33: The action INSERT was done to the table Users. Details Alice
+2024-05-27 23:47:33: The action INSERT was done to the table Users. Details Bob The Builder
+2024-05-27 23:47:33: The action UPDATE was done to the table Users. Details Alice
+2024-05-27 23:47:33: The action DELETE was done to the table Users. Details User 2 deleted successfully.
+2024-05-27 23:47:33: The action DELETE was done to the table Users. Details User 1 deleted successfully.
+2024-05-27 23:47:33: The action INSERT was done to the table NutritionInfo. Details Rice
+2024-05-27 23:47:33: The action UPDATE was done to the table NutritionInfo. Details Food Rice was updated successfully.
+2024-05-27 23:47:33: The action INSERT was done to the table Goal. Details Fitness
+2024-05-27 23:47:33: The action UPDATE was done to the table Goal. Details Goal named Fitness 2was updated successfully
+2024-05-27 23:47:33: The action DELETE was done to the table Goal. Details Goal with id 1was deleted succesfully
+2024-05-27 23:47:33: The action INSERT was done to the table CalorieIntake. Details Food inserted at 2024-05-27T23:47:33.419079800
+2024-05-27 23:47:33: The action UPDATE was done to the table CalorieIntake. Details Food inserted at 2024-05-27T23:47:33.419079800was succesfully updated
+2024-05-27 23:47:33: The action DELETE was done to the table CalorieIntake. Details Food intake id 1was successfully deleted
+2024-05-27 23:47:33: The action DELETE was done to the table NutritionInfo. Details Food with id 1 was deleted successfully.

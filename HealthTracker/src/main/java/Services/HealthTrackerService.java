@@ -1,13 +1,15 @@
 package Services;
 
-import ExerciseLog.ExerciseLog;
-import HealthData.HealthData;
-import Reminder.Reminder;
-import CalorieIntake.CalorieIntake;
-import SleepPattern.SleepPattern;
-import WeightEntry.WeightEntry;
+import Domain.ExerciseLog.ExerciseLog;
+import Domain.HealthData.HealthData;
+import Domain.Reminder.Reminder;
+import Domain.CalorieIntake.CalorieIntake;
+import Domain.SleepPattern.SleepPattern;
+import Domain.WeightEntry.WeightEntry;
 
 import java.time.LocalTime;
+import java.util.ArrayList;
+import java.util.List;
 
 public class HealthTrackerService {
     private HealthData healthData;
@@ -75,5 +77,6 @@ public class HealthTrackerService {
     public void displayReminders(LocalTime currentTime) {
         reminder.displayReminders(currentTime);
     }
+
 }
 
